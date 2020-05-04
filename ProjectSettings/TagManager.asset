@@ -15,8 +15,8 @@ TagManager:
   - 
   - 
   - Teleportable
-  - 
-  - 
+  - FadeOut
+  - FadeCamera
   - 
   - 
   - 
