@@ -17,7 +17,7 @@ TagManager:
   - Teleportable
   - FadeOut
   - FadeCamera
-  - 
+  - InteractSnapLayer
   - 
   - 
   - 
